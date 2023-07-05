@@ -1,6 +1,6 @@
 {
-  "name": "@echarts/map-collection",
-  "version": "1.0.0",
+  "name": "echarts-map-collection",
+  "version": "1.0.1",
   "description": "Echarts Map Collection",
   "main": "index.js",
   "keywords": [
