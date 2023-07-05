@@ -1,0 +1,24 @@
+{
+  "name": "@echarts/map-collection",
+  "version": "1.0.0",
+  "description": "Echarts Map Collection",
+  "main": "index.js",
+  "keywords": [
+    "echarts",
+    "maps",
+    "map-collection"
+  ],
+  "author": "Antony Mwangi",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonymwangig/echarts-map-collection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antonymwangig/echarts-map-collection/issues"
+  },
+  "homepage": "https://github.com/antonymwangig/echarts-map-collection#readme"
+}
